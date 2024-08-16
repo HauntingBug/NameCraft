@@ -1,7 +1,7 @@
 # NameCraft
 
 ## Overview
-**NameCraft** is a tool designed to help Minecraft players discover available 3-letter usernames. Given the scarcity of such short usernames, this tool automates the process of checking their availability. While getting a 3-letter username might seem nearly impossible without resorting to sniping methods, MineTag offers a simple and user-friendly way to explore what's still available.
+**NameCraft** is a tool designed to help Minecraft players discover available 3-letter usernames. Given the scarcity of such short usernames, this tool automates the process of checking their availability. While getting a 3-letter username might seem nearly impossible without resorting to sniping methods, NameCraft offers a simple and user-friendly way to explore what's still available.
 
 ## Features
 - **Automated Username Checking:** Automatically generate and check the availability of all possible 3-letter Minecraft usernames.
@@ -25,6 +25,6 @@ While the tool is generally accurate, there is a chance that the program might o
 Simply clone this repository and run the Python script. Ensure you have Python installed on your system. No additional libraries are required beyond the standard library.
 
 ```bash
-git clone https://github.com/YourUsername/MineTag.git
-cd MineTag
+git clone https://github.com/YourUsername/NameCraft.git
+cd NameCraft
 python namecraft.py
