@@ -25,6 +25,6 @@ While the tool is generally accurate, there is a chance that the program might o
 Simply clone this repository and run the Python script. Ensure you have Python installed on your system. No additional libraries are required beyond the standard library.
 
 ```bash
-git clone https://github.com/YourUsername/NameCraft.git
+git clone https://github.com/HauntingBug/NameCraft.git
 cd NameCraft
 python namecraft.py
